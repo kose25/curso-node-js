@@ -1,0 +1,15 @@
+{
+  "name": "curso-node",
+  "version": "1.0.1",
+  "description": "prueba",
+  "main": "archivos.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Pablos kose.pablos@gmail.com",
+  "license": "ISC"
+}
